@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-27",
+  "kind": "架空データの画像見本・GitHub Pages公開",
+  "files": [
+    {
+      "file": "index.html",
+      "bytes": 5958,
+      "sha256": "7ed4b19a05e52e23d53b95260a11ab239cdf3983092c79e4c7a1aad384b8334f"
+    },
+    {
+      "file": "style.css",
+      "bytes": 1375,
+      "sha256": "cb1253268e554c7cf25a19cafb1ad047f1616eac959b3c02200c436a1e1a2bda"
+    },
+    {
+      "file": "README.md",
+      "bytes": 835,
+      "sha256": "287260c7698dc57b3cbc2a80e1905d563df2f1c0979e9ce81c301e130d935509"
+    },
+    {
+      "file": "images/home-pc.jpg",
+      "bytes": 59256,
+      "sha256": "bb9cf50c904ac0b1e3112a8013db166d015ec94a3dee95e341885387786fddbd"
+    },
+    {
+      "file": "images/chat-pc.jpg",
+      "bytes": 85687,
+      "sha256": "d2154cc5ecc564b79ccddee3c5b036f90a78566703ff3e4472b050b3a3ba74c9"
+    },
+    {
+      "file": "images/attendance-pc.jpg",
+      "bytes": 50000,
+      "sha256": "f879eefdcce87872ff9b193d6a0fc128dc7a89c1b5187110e42f6bb1bd4d03d1"
+    },
+    {
+      "file": "images/report-mobile.jpg",
+      "bytes": 36767,
+      "sha256": "ae0a3ead85922830d79391480e50ce7c3fca1384b03c49589492b937067f2477"
+    },
+    {
+      "file": "images/reply-mobile.jpg",
+      "bytes": 35981,
+      "sha256": "3236b08c59c2b938e56a64f05810c99f7e29be3bbde0b30120d6dad9a60cc332"
+    },
+    {
+      "file": "images/account-pc.jpg",
+      "bytes": 84366,
+      "sha256": "35c82c1086e174d62ffe3473c93cc1a8fc4cd1c30a23c4253e3d2a40b7eff753"
+    }
+  ]
+}
